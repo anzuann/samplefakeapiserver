@@ -1,1 +1,173 @@
 
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nassor Anzuann"
+    },
+    {
+      "name": "Emilius Mfuruki",
+      "id": "S1T1g13nW"
+    }
+  ],
+  "apps": [
+    {
+      "id": "1",
+      "name": "html5",
+      "publisher": "eGA",
+      "downloads": "15K",
+      "license": "FREE",
+      "ratings": "5",
+      "logo": "assets/images/logo.ico"
+    },
+    {
+      "id": "2",
+      "name": "Bluestack",
+      "publisher": "eGA",
+      "downloads": "13K",
+      "license": "PREMIER",
+      "ratings": "5",
+      "logo": "assets/images/Movies.ico"
+    },
+    {
+      "id": "3",
+      "name": "eGa Music",
+      "publisher": "eGA",
+      "downloads": "73K",
+      "license": "FREE",
+      "ratings": "4",
+      "logo": "assets/images/Music.ico"
+    }
+  ],
+  "faq": [
+    {
+      "id": "1",
+      "app_id": "1",
+      "senders_email": "alanzuann@gmail.com",
+      "senders_name": "Nassor Anzuann",
+      "question": "How to install html5 app in my android phone with lollipop Oerating system?",
+      "answer": "Actutally you dont have to install the html5 app in your android phone"
+    },
+    {
+      "question": "what is actually beef you realy absolutely hate love happy?",
+      "app_id": "1",
+      "id": "ryAnW-Cn-",
+      "answer": "Actutally you dont have to install the html5 app in your android phone"
+    },
+    {
+      "question": "vbdsbvdsfgdddddddddddddddddddd",
+      "app_id": "1",
+      "id": "BkJQMbC3b",
+      "answer": "Actutally you dont have to install the html5 app in your android phone"
+    },
+    {
+      "question": "Im asking about what you think is right for you to do?",
+      "app_id": "2",
+      "id": "HkUB4Z02b",
+      "answer": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor unde provident ullam, ex quis in. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor unde provident ullam, ex quis in. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor unde provident ullam, ex quis in?"
+    },
+    {
+      "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor unde provident ullam, ex quis in?",
+      "app_id": "2",
+      "id": "r1TfB-A2-"
+    },
+    {
+      "question": " ,mnbvdcxslj.lhjgfb",
+      "app_id": "1",
+      "id": "Hk3nrZAnW"
+    },
+    {
+      "question": "lhjfgbvdcsdvbfngh,jkgbfd",
+      "app_id": "1",
+      "id": "rJlWj7ChZ",
+      "answer": "sample answer for testing the faq"
+    },
+    {
+      "question": "hjv,,hvj,h,",
+      "app_id": "1",
+      "id": "ryv8cQypZ"
+    },
+    {
+      "question": "bdfbdfbdfv",
+      "app_id": "1",
+      "id": "HyUh_u16-"
+    },
+    {
+      "question": "mnb nmv jhvbjhb",
+      "app_id": "1",
+      "id": "B1pdiplaZ"
+    }
+  ],
+  "appReviews": [
+    {
+      "id": "1",
+      "app_id": "1",
+      "review_text": "sample review text"
+    },
+    {
+      "review_text": " xfvdbdbgdgbdg",
+      "app_id": "1",
+      "id": "Hy2bZwA2W"
+    },
+    {
+      "review_text": "vsbdgbdgbsdbfdsfsdfdffdf",
+      "ratings": "5",
+      "app_id": "1",
+      "id": "BkKAZwR2b"
+    },
+    {
+      "review_text": "vk,fhkjghjkhgjkhgkjhgkj",
+      "ratings": "4",
+      "app_id": "1",
+      "id": "rkOvqXJp-"
+    },
+    {
+      "review_text": "this is my review for this app",
+      "ratings": "4",
+      "app_id": "3",
+      "id": "BJqD37J6W"
+    },
+    {
+      "review_text": "lhlolllllllllllllllllllllllllllllllll",
+      "ratings": "2",
+      "app_id": "3",
+      "id": "rJvz671TZ"
+    },
+    {
+      "review_text": "knmokslfvnklkflkkdfldf",
+      "ratings": "5",
+      "app_id": "3",
+      "id": "B1JOy4Ja-"
+    },
+    {
+      "review_text": "glihulhlhjklhjlkhjlk",
+      "ratings": "1",
+      "app_id": "3",
+      "id": "HJmDQNka-"
+    },
+    {
+      "review_text": "Lorem ipsum is a placeholder text (filler text) in publishing and graphic design. It is used to demonstrate the graphics elements of a document, such as font, typography, and layout. ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius",
+      "ratings": "3",
+      "app_id": "1",
+      "id": "SyH8gw1aW"
+    },
+    {
+      "review_text": "sample application review",
+      "ratings": "3",
+      "app_id": "2",
+      "id": "rJiHCP1Tb"
+    },
+    {
+      "review_text": "rtyuiopiuyryuiop[tuoutopiyuyioyioiuoiui",
+      "ratings": "1",
+      "app_id": "2",
+      "id": "HJs0d_1aZ"
+    },
+    {
+      "review_text": "nmbkjbnlknkjbkjn ",
+      "ratings": "3",
+      "app_id": "1",
+      "id": "SJD9iplTW"
+    }
+  ]
+}
